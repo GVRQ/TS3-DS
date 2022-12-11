@@ -66,6 +66,8 @@ The best results obtained with the selected model.
 
 - **Accuracy: 0.2917**
 - **F1-Score macro: 0.2608**
+- **F1-Score micro: 0.2917**
+- **F1-Score weighted: 0.2765**
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/ML_results.png?raw=true)
 
 # License
