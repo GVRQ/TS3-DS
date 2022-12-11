@@ -43,16 +43,16 @@ Numbers represent following parental educational level:
 
 - master's degree: 5
 
-# *Goal*
+## *Goal*
 1. The goal of the challenge is to provide an answer to whether the student's academic results are influenced by the educational level of the parents. 
 2. Create a predictive model for prediction of test-dataset.
 
-# Results
+## Results
 
 1. The results of the first goal are provided in the Final Conclusion of [(TS3-DS.ipynb-file)](https://github.com/GVRQ/TS3-DS/blob/main/TS_DS3.ipynb). In short: The student's academic results are **influenced by the educational level of the parents**.
 2. The results of the parental educational level are in the [(predictions.csv-file)](https://github.com/GVRQ/TS3-DS/blob/main/predictions.json).
 
-# Analysis
+## Analysis
 We've analyzed the data and come to conclusion that children from families with higher educational levels tend to score better in all areas. 
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/Parental_ed_values.png?raw=true)
 However **the parental educational level is not the key factor for the students performance**. Students that completed **Test preparation course** achieved higher results than students that haven't completed the prep course.
@@ -70,7 +70,7 @@ The best results obtained with the selected model.
 - **F1-Score weighted: 0.2765**
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/ML_results.png?raw=true)
 
-# License
+## License
 The open source license. https://opensource.org/licenses/MIT
 MIT License
 
