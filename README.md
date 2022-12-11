@@ -55,6 +55,7 @@ Numbers represent following parental educational level:
 ## Analysis
 We've analyzed the data and come to conclusion that children from families with higher educational levels tend to score better in all areas. 
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/Parental_ed_values.png?raw=true)
+
 However **the parental educational level is not the key factor for the students performance**. Students that completed **Test preparation course** achieved higher results than students that haven't completed the prep course.
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/prep_course_vs_scores.png?raw=true)
 
