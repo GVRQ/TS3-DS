@@ -63,6 +63,9 @@ After analyzing Correlations between features we've dropped `high_income` featur
 
 **Model: GaussianNB without optimizations.**
 The best results obtained with the selected model.
+
+**Accuracy: 0.2917**
+**F1-Score macro: 0.2608**
 ![alt text](https://github.com/GVRQ/TS3-DS/blob/main/images/ML_results.png?raw=true)
 
 # License
