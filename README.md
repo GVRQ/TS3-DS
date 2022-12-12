@@ -100,4 +100,4 @@ There are several ways to improve this model, including:
 
 4.    Using more data: The current model uses a relatively small amount of data, which may not be enough to train a high-performance model. Using more data, either by collecting more data or using techniques like data augmentation, could potentially improve the model's performance.
 
-5.    Evaluating the model's performance more thoroughly: The current model only uses a few metrics (e.g. accuracy, precision, recall) to evaluate its performance. Using more comprehensive evaluation metrics, such as F1 score or receiver operating characteristic (ROC) curves, could provide a more thorough understanding of the model's performance.
+5.    Evaluating the model's performance more thoroughly: The current model only uses a few metrics (e.g. F1, accuracy, precision, recall) to evaluate its performance. Using more comprehensive evaluation metrics, such as receiver operating characteristic (ROC) curves, could provide a more thorough understanding of the model's performance.
