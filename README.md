@@ -89,3 +89,15 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+### Improvements 💡
+There are several ways to improve this model, including:
+1.    Using more and better features: The current model only uses a few features (e.g. parental education, test preparation, lunch type) to predict the overall performance of a student. Adding more relevant features, such as the student's gender, age, and socioeconomic status, could potentially improve the model's performance.
+
+2.    Using more advanced machine learning algorithms: The current model uses a simple Gaussian naive Bayes classifier, which may not be the most appropriate algorithm for this problem. Using more advanced algorithms, such as decision trees, random forests, or support vector machines, could potentially improve the model's performance.
+
+3.    Using hyperparameter tuning: The current model does not use any hyperparameter tuning, which means that the model's performance may not be optimized. Using techniques like grid search or random search to find the best hyperparameters for the model could potentially improve its performance.
+
+4.    Using more data: The current model uses a relatively small amount of data, which may not be enough to train a high-performance model. Using more data, either by collecting more data or using techniques like data augmentation, could potentially improve the model's performance.
+
+5.    Evaluating the model's performance more thoroughly: The current model only uses a few metrics (e.g. accuracy, precision, recall) to evaluate its performance. Using more comprehensive evaluation metrics, such as F1 score or receiver operating characteristic (ROC) curves, could provide a more thorough understanding of the model's performance.
